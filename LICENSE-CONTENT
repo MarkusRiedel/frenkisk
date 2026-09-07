@@ -1,0 +1,77 @@
+THE LANGUAGE, THE TEXTS AND THE KIT
+Creative Commons Attribution — ShareAlike 4.0 International
+(CC BY-SA 4.0)
+
+Copyright (c) 2026 Markus Riedel — the frenkisk project
+
+────────────────────────────────────────────────────────────────────────
+WHAT THIS LICENCE COVERS
+────────────────────────────────────────────────────────────────────────
+
+Everything that is not in `tools/` — the reconstructed language itself
+and everything derived from it. In this repository that is:
+
+  · frenkisk-dictionary.md — the dictionary
+  · frenkisk-kit-translator.md — the translator's grammar
+  · frenkisk-index.md — the index
+  · frenkisk-specimen.md — the specimen texts
+  · frenkisk-paper.pdf, STATE.md, README.md
+
+and, outside it, the source registers, the paradigms, the corpus of
+texts and the calligraphic figures from which these are generated.
+
+The CODE in `tools/` is under the MIT licence — see LICENSE.
+
+⚠ **Why two licences.** A constructed language is not software. MIT
+permits silent appropriation: someone could take the lexicon, extend it,
+and give nothing back. The share-alike clause of CC BY-SA guarantees
+that a derived language stays open — the only regime consistent with a
+project whose whole method consists in publishing its rulings, its
+limits and its mistakes.
+
+────────────────────────────────────────────────────────────────────────
+⚠⚠ WHY VERSION 4.0, AND NOT ANOTHER
+────────────────────────────────────────────────────────────────────────
+
+**The lexicon is a database**, and under European law a database is
+protected twice over: by copyright in its contents, and by a separate
+**sui generis right of the maker** (Directive 96/9/EC) which protects
+the investment made in collecting it, independently of any originality.
+That second right covers precisely what this project is: 1746 lemmas
+gathered, checked and dated.
+
+**CC BY-SA 4.0 is the first version that explicitly licenses that sui
+generis right** (§4). A 3.0 would have left it outside the grant — the
+licence would have said "reuse this" while an unlicensed right said the
+opposite.
+
+────────────────────────────────────────────────────────────────────────
+WHAT THIS LICENCE DOES NOT COVER
+────────────────────────────────────────────────────────────────────────
+
+⚠ **Third-party sources cited or reproduced in the corpus** — the
+*Pactus legis Salicae*, the Old Saxon baptismal vow, the Wachtendonck
+psalms, the glosses of Gallée, Heyne, Franck, Köbler, the archival
+plates — **are not mine and are not licensed by this file.** They are
+cited for scholarly purposes, with their references. See
+SOURCES-TIERCES.md.
+
+**A licence never extends to what one quotes.** It covers what one has
+made, and this project made the reconstruction — not the witnesses.
+
+────────────────────────────────────────────────────────────────────────
+THE FULL TEXT
+────────────────────────────────────────────────────────────────────────
+
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+ATTRIBUTION REQUESTED:
+
+    frenkisk — a reconstruction of Merovingian Frankish
+    by Markus Riedel (2026), CC BY-SA 4.0
+
+⚠ And one request that is methodological rather than legal: **if you
+extend this language, say where you ruled.** This whole repository rests
+on the rule that a ruling without its reason is worth nothing.
